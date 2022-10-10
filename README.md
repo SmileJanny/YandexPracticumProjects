@@ -2,6 +2,7 @@
 Проекты, разработанные в процессе обучения в Яндекс.Практикуме по специальности Аналитик данных
 Наименование проекта | Описание проекта | Инструменты | Ссылка
 -----|-------|------|-----|
+Статистический анализ данных телеком-компании | Определение перспективного тарифа для телеком-компании | Python, Pandas, Numpy, Matplotlib, Seaborn, Math, Scipy, описательная статистика, проверка статистических гипотез | [telecom_tariff](https://github.com/SmileJanny/YandexPracticumProjects/tree/main/telecom_tariff/)
 Анализ компьютерных игр | Выявление определяющих успешность игры закономерностей | Python, Pandas, Numpy, Matplotlib, Seaborn, PyMystem3, Scipy, исследовательский анализ данных, описательная статистика, предобработка данных, проверка статистических гипотез | [platform_game](https://github.com/SmileJanny/YandexPracticumProjects/tree/main/platform_game/)
 Анализ бизнес-показателей развлекательного приложения | Маркетинговая аналитика развлекательного приложения | Python, Pandas, Numpy, Matplotlib, Seaborn, PyMystem3, Scipy, исследовательский анализ данных, описательная статистика, предобработка данных, проверка статистических гипотез | [app_game](https://github.com/SmileJanny/YandexPracticumProjects/tree/main/app_game/)
 Принятие решений в бизнесе | Анализ гипотез для увеличения выручки | Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, A/B-тестирование, проверка статистических гипотез | [online_store](https://github.com/SmileJanny/YandexPracticumProjects/tree/main/online_store/)
